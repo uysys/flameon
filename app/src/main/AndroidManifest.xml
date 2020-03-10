@@ -37,6 +37,7 @@
         <activity
             android:name="com.flameon.customer.ActivitiesAndFragments.SplashScreen"
             android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Launcher"
             android:label="@string/app_name">
 
             <intent-filter>
