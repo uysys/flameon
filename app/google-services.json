@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718358260195",
+    "firebase_url": "https://flameon-efee7.firebaseio.com",
+    "project_id": "flameon-efee7",
+    "storage_bucket": "flameon-efee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718358260195:android:2db76be8c53f3c12bdd8d6",
+        "android_client_info": {
+          "package_name": "com.flameon.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718358260195-h061due70p3kgaijucbv926m5ccfhfgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flameon.customer",
+            "certificate_hash": "79367762128b725f6f02a40e3211af5541c2a106"
+          }
+        },
+        {
+          "client_id": "718358260195-irforoalg2idh4gcgc62shsk55a9rab7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcixoQDa7T0ACY7zGAomWwc7Rp_6OQJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718358260195-irforoalg2idh4gcgc62shsk55a9rab7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

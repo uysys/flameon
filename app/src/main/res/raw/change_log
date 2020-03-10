@@ -1,0 +1,15 @@
+
+com.foodies.customer >> ActivitiesAndFragments >>> SplashScreen
+com.foodies.customer >> ActivitiesAndFragments >>> RestaurantMenuItemsFragment
+com.foodies.customer >> ActivitiesAndFragments >>> AddToCartActivity
+com.foodies.customer >> ActivitiesAndFragments >>> CartFragment
+
+com.foodies.customer >>> Adapter >> RestaurantMenuAdapter
+
+com.foodies.customer >> GoogleMapWork >>> TrackingActivity
+
+com.foodies.customer >>> Constants >>> Functions
+
+layout Files
+row_item_restaurant_child.xml
+row_item_restaurant_parent.xml
